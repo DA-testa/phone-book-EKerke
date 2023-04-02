@@ -1,4 +1,5 @@
 # python3
+#Evelina Paula Ķerķe 14.grupa 221RDB044
 
 class Query:
     def __init__(self, query):
